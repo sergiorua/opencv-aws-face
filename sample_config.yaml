@@ -1,0 +1,15 @@
+---
+kairos:
+  url: 'http://api.kairos.com/detect'
+  app_id: foo
+  app_key: bar
+
+aws:
+  aws_access_key_id: foo
+  aws_secret_access_key: bar
+  region: eu-west-1
+
+azure:
+  url: 'https://northeurope.api.cognitive.microsoft.com/face/v1.0'
+  key1: foo
+  key2: bar
